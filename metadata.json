@@ -1,0 +1,5 @@
+{
+  "name": "CellTracker AI",
+  "description": "A Gemini-powered computational biology tool for tracking cell movements and analyzing mitosis events in microscopy videos.",
+  "requestFramePermissions": []
+}
